@@ -9,7 +9,7 @@
 
 ![alt text](<Post by @tritsukiii · 8 images.gif>)
 #
-<div align="center">
+<div align="left">
   
 ###  About Me 
   
